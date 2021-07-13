@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VotingProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>VotingProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SampleServlet.war">
+      <element id="artifact" artifact-name="VotingProject:war exploded" />
+    </root>
+  </artifact>
+</component>

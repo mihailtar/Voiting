@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="VotingProject:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0825be4f-a013-435f-ba28-923a6494935b" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Users</find>
+      <find>user</find>
+      <find>Liq</find>
+      <find>option</find>
+      <find>delete</find>
+      <find>edit</find>
+      <find>get</find>
+      <find>theme</find>
+      <find>deleteOption</find>
+      <find>Theme</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Themes</replace>
+      <replace>theme</replace>
+      <replace>answer</replace>
+      <replace>get</replace>
+      <replace>edit</replace>
+      <replace>option</replace>
+      <replace>Option</replace>
+    </replaceStrings>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uw1dAJvZW40dbc1zNUIq8E1MMT" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Thymeleaf</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Development/SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40604028" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.voting.controller.theme" />
+      <recent name="com.voting.controller.answer" />
+      <recent name="com.voting.controller.option" />
+      <recent name="com.voting.model" />
+      <recent name="com.voting.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Voting Project\VotingProject\src\main\webapp\user" />
+      <recent name="D:\Projects\VotingProject\src\main\webapp\user" />
+      <recent name="D:\Projects\VotingProject\src\main\webapp\admin" />
+      <recent name="D:\Projects\VotingProject\src\main\java\com\voting\controller\option" />
+      <recent name="D:\Projects\VotingProject\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.20" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jre1.8.0_241">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="VotingProject:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_VotingProject" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50020" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="VotingProject:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13669065" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0825be4f-a013-435f-ba28-923a6494935b" name="Default" comment="" />
+      <created>1576056596968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576056596968</updated>
+      <workItem from="1576056599632" duration="1169000" />
+      <workItem from="1576058600634" duration="9981000" />
+      <workItem from="1576130543250" duration="25278000" />
+      <workItem from="1576252958392" duration="3481000" />
+      <workItem from="1576256976508" duration="28000" />
+      <workItem from="1576344421569" duration="415000" />
+      <workItem from="1576351519044" duration="3785000" />
+      <workItem from="1576418757283" duration="1012000" />
+      <workItem from="1576428616700" duration="121000" />
+      <workItem from="1576431879581" duration="473000" />
+      <workItem from="1576433360370" duration="468000" />
+      <workItem from="1576512595105" duration="67000" />
+      <workItem from="1576592692079" duration="298000" />
+      <workItem from="1576609488817" duration="451000" />
+      <workItem from="1576659839708" duration="1317000" />
+      <workItem from="1576740729608" duration="854000" />
+      <workItem from="1576744508256" duration="136000" />
+      <workItem from="1576747789029" duration="498000" />
+      <workItem from="1576775041114" duration="70000" />
+      <workItem from="1576863508623" duration="79000" />
+      <workItem from="1577119465384" duration="595000" />
+      <workItem from="1577128554380" duration="1716000" />
+      <workItem from="1577186138903" duration="5791000" />
+      <workItem from="1577901472229" duration="71000" />
+      <workItem from="1580991144612" duration="24000" />
+      <workItem from="1583528227293" duration="415000" />
+      <workItem from="1583528655312" duration="735000" />
+      <workItem from="1583529406676" duration="4011000" />
+      <workItem from="1583536065760" duration="84000" />
+      <workItem from="1583536857996" duration="52000" />
+      <workItem from="1583537716011" duration="900000" />
+      <workItem from="1583559816689" duration="717000" />
+      <workItem from="1583753150387" duration="701000" />
+      <workItem from="1583761900544" duration="1915000" />
+      <workItem from="1583861161329" duration="242000" />
+      <workItem from="1583910183789" duration="52000" />
+      <workItem from="1583930298376" duration="117000" />
+      <workItem from="1587218215347" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="54" y="22" key="#Project_Structure" timestamp="1583559940576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="54" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583559940576" />
+    <state x="379" y="0" width="622" height="728" key="#Tomcat" timestamp="1583528353053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="622" height="728" key="#Tomcat/0.0.1366.728@0.0.1366.728" timestamp="1583528353053" />
+    <state x="273" y="23" key="#Tomcat_Server" timestamp="1583528347172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="273" y="23" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1583528347172" />
+    <state x="135" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583536870989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="135" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583536870989" />
+    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1583536907511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583536907511" />
+    <state width="984" height="174" key="GridCell.Tab.0.bottom" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.0.center" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.0.left" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.0.right" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.1.bottom" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.1.center" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.1.left" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.1.right" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.2.bottom" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.2.center" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.2.left" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state width="984" height="174" key="GridCell.Tab.2.right" timestamp="1583536909674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="984" height="174" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1583536909674" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583534693676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583534693676" />
+    <state x="323" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1587218215379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="323" y="243" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587218215379" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

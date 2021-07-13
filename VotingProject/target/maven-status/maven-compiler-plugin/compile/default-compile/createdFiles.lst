@@ -1,0 +1,7 @@
+com\voting\util\PasswordEncryption.class
+com\voting\util\DatabaseConnect.class
+com\voting\controller\RegistrNewUser.class
+com\voting\controller\GetUserList.class
+com\voting\service\UserService.class
+com\voting\model\User.class
+com\voting\model\Role.class
